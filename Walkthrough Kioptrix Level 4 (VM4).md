@@ -1,6 +1,6 @@
 # Walkthrough Kioptrix Level 4 (VM4)
 
-Oct 27, 2026 · Disusun oleh @Yusuf
+Oct 27, 2026 · Disusun oleh @yusufarif20
 
 ## Ringkasan Eksekutif
 
